@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ReactWidgets/static/js/main.678c12f0.chunk.js",
+    "main.js.map": "/ReactWidgets/static/js/main.678c12f0.chunk.js.map",
+    "runtime-main.js": "/ReactWidgets/static/js/runtime-main.7b90450a.js",
+    "runtime-main.js.map": "/ReactWidgets/static/js/runtime-main.7b90450a.js.map",
+    "static/js/2.4088855b.chunk.js": "/ReactWidgets/static/js/2.4088855b.chunk.js",
+    "static/js/2.4088855b.chunk.js.map": "/ReactWidgets/static/js/2.4088855b.chunk.js.map",
+    "index.html": "/ReactWidgets/index.html",
+    "precache-manifest.40f483abf5920eddf4347632e5b28271.js": "/ReactWidgets/precache-manifest.40f483abf5920eddf4347632e5b28271.js",
+    "service-worker.js": "/ReactWidgets/service-worker.js",
+    "static/js/2.4088855b.chunk.js.LICENSE.txt": "/ReactWidgets/static/js/2.4088855b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b90450a.js",
+    "static/js/2.4088855b.chunk.js",
+    "static/js/main.678c12f0.chunk.js"
+  ]
+}
